@@ -1,0 +1,305 @@
+
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="height: 600px;" contentStyleType="text/css" height="600"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.0">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }
+.knime-legend-label, text.knime-legend-label { color: black; fill: black; font-size: 12px; font-weight: normal; }
+.knime-tooltip-caption, .knime-tooltip-key, .knime-tooltip-value { color: black; fill: black; font-size: 12px; }
+.knime-tooltip-key { font-weight: normal; }
+.knime-tooltip-caption, .knime-tooltip-value { font-weight: bold; }</style><g transform="translate(70,46)">
+        <rect x="-70" fill="rgb(255,255,255)" width="800" y="-46" height="600"
+              fill-opacity="1.0"/>
+        <rect fill="rgb(230,230,230)" width="710" height="449"
+              fill-opacity="1.0"/>
+        <g class="x axis knime-x knime-axis" transform="translate(0,449)">
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.0
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(71,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.1
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(142,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.2
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(213,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.3
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(284,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.4
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(355,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.5
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(426,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.6
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(496.99999999999994,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.7
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(568,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.8
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(639,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    0.9
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(710,0)">
+                <line y2="-449" class="knime-tick-line" x2="0"
+                      stroke="rgb(255,255,255)"/>
+                <text x="0" dy=".71em" y="10" style="text-anchor: middle;"
+                      class="knime-tick-label">
+                    1.0
+                </text>
+            </g>
+            <path fill="none" stroke-width="1" d="M0,0V0H710V0" class="domain"
+                  stroke="rgb(255,255,255)"/>
+        </g>
+        <g class="y axis knime-y knime-axis">
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,449)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.0
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,404.1)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.1
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,359.2)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.2
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,314.3)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.3
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,269.4)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.4
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,224.5)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.5
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,179.60000000000002)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.6
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,134.70000000000005)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,89.79999999999995)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,44.89999999999998)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.9
+                </text>
+            </g>
+            <g style="opacity: 1;" class="tick major knime-tick"
+               transform="translate(0,0)">
+                <line y2="0" class="knime-tick-line" x2="710"
+                      stroke="rgb(255,255,255)"/>
+                <text x="-10" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    1.0
+                </text>
+            </g>
+            <path fill="none" stroke-width="1" d="M0,0H0V449H0" class="domain"
+                  stroke="rgb(255,255,255)"/>
+        </g>
+        <text x="700" id="xtitle" y="494"
+              class="x label knime-x knime-axis-label" text-anchor="end">
+            False Positive Rate
+        </text>
+        <text dy=".75em" id="ytitle" y="-55"
+              class="y label knime-y knime-axis-label" transform="rotate(-90)"
+              text-anchor="end">
+            True Positive Rate
+        </text>
+        <g class="knime-tooltip" transform="translate(491,349)">
+            <text x="0" y="0" style="fill: rgb(31, 119, 180);"
+                  class="knime-tooltip-key knime-tooltip-value knime-tooltip-color">
+                Random Forest Gini Index 8 (0.843)
+            </text>
+            <text x="0" y="25" style="fill: rgb(255, 127, 14);"
+                  class="knime-tooltip-key knime-tooltip-value knime-tooltip-color">
+                Random Forest Gini Index 12 (0.887)
+            </text>
+            <text x="0" y="50" style="fill: rgb(44, 160, 44);"
+                  class="knime-tooltip-key knime-tooltip-value knime-tooltip-color">
+                Random Forest Gain Ratio 8 (0.776)
+            </text>
+            <text x="0" y="75" style="fill: rgb(214, 39, 40);"
+                  class="knime-tooltip-key knime-tooltip-value knime-tooltip-color">
+                Random Forest Gain Ratio 12 (0.806)
+            </text>
+        </g>
+        <path style="stroke: rgb(31, 119, 180); fill: none; stroke-width: 2;"
+              class="line"
+              d="M0,449L4.076443569553806,316.54657378198385L7.1434820647419075,267.79867683140554L9.434055118110237,246.21819137749736L12.32638888888889,234.33613739922887L15.199311023622048,225.40492464072906L17.64517716535433,217.67372064493514L20.634569116360456,211.51629863301787L23.701607611548557,206.71626358219416L27.95275590551181,200.735892043463L32.863899825021875,195.4833946722748L37.794455380577425,189.08990536277605L43.482064741907266,182.22428145811426L50.955544619422575,175.2209516298633L60.00136701662293,166.21104977216964L71.90069991251093,155.17490361023488L87.11942257217848,143.29284963196636L104.97812773403324,131.74522432527164L131.47501093613297,117.01069050122675L172.76356080489938,100.09253417455307L263.8623687664042,67.8300035050824L710,0"/>
+        <g class="knime-legend" transform="translate(0,519)">
+            <text x="20" class="knime-legend-label">
+                Random Forest Gini Index 8
+            </text>
+            <circle fill="#1f77b4" r="5" cx="5" class="knime-legend-symbol"
+                    cy="-5"/>
+        </g>
+        <path style="stroke: rgb(255, 127, 14); fill: none; stroke-width: 2;"
+              class="line"
+              d="M0,449L2.2129265091863517,311.23505958640027L3.5329177602799646,271.89050998948477L4.8334973753280845,254.2248072204697L5.881725721784777,242.85423238696112L6.9687773403324575,233.1164563617245L8.152887139107612,225.16885734314758L9.666994750656169,218.32290571328429L10.812281277340333,212.6179460217315L12.32638888888889,207.75889414651243L13.918143044619423,202.5260690501227L15.238134295713037,197.4899667017175L16.888123359580053,192.65058710129688L18.829286964129484,188.22432527164392L20.983978565179353,183.42429022082018L23.216316710411196,179.41114616193477L25.83688757655293,174.35537153873116L28.263342082239717,170.02747108307045L30.806266404199476,165.365141955836L34.22271434820647,160.11264458464774L37.65857392825897,155.45031545741324L41.69619422572178,151.16175955134946L45.326170166229225,146.87320364528568L49.38320209973754,142.8207150368034L54.74081364829396,138.29609183315807L60.00136701662293,133.96819137749736L66.31014873140857,129.62061864703816L72.09481627296589,125.1943568173852L79.04418197725285,120.15825446898003L86.4011920384952,115.39756396775323L94.72878390201225,109.63358745180511L103.87166447944006,103.79092183666319L114.52865266841644,98.12530669470732L126.46680883639544,91.90886785839467L140.42377515310585,85.77111812127583L155.70073272090988,79.39730108657551L174.8211942257218,72.7874167542937L198.50339020122485,64.80047318611986L232.86198600174976,54.53154574132492L283.7398840769904,42.64949176305646L376.9739720034995,26.085436382755006L710,0"/>
+        <g class="knime-legend" transform="translate(180,519)">
+            <text x="20" class="knime-legend-label">
+                Random Forest Gini Index 12
+            </text>
+            <circle fill="#ff7f0e" r="5" cx="5" class="knime-legend-symbol"
+                    cy="-5"/>
+        </g>
+        <path style="stroke: rgb(44, 160, 44); fill: none; stroke-width: 2;"
+              class="line"
+              d="M0,449L5.144083552055993,337.438529617946L7.0270122484689415,288.78899404135996L8.77405949256343,270.41508937960043L10.695811461067366,263.864221871714L13.432852143482066,256.56580792148617L15.781660104986877,250.97888187872414L18.654582239720035,244.03456887486857L20.78986220472441,238.6640378548896L23.022200349956258,234.5722046968104L25.66218285214348,230.75578338590958L28.37981189851269,228.1787153873116L30.942147856517934,224.30327725201545L33.67918853893263,219.4638976515948L37.01798993875765,214.74255169996493L40.123851706036746,211.6540045566071L44.10323709536308,208.30971784086927L48.64555993000875,202.68344724851036L57.94373359580052,196.21126883981773L73.91951006124235,185.48987907465823L127.63150699912512,155.31260953382406L710,0"/>
+        <g class="knime-legend" transform="translate(366,519)">
+            <text x="20" class="knime-legend-label">
+                Random Forest Gain Ratio 8
+            </text>
+            <circle fill="#2ca02c" r="5" cx="5" class="knime-legend-symbol"
+                    cy="-5"/>
+        </g>
+        <path style="stroke: rgb(214, 39, 40); fill: none; stroke-width: 2;"
+              class="line"
+              d="M0,449L3.6299759405074363,308.95307570977917L4.94996719160105,283.85125306694704L5.862314085739282,273.99544339291975L7.162893700787401,266.8937521906765L8.677001312335959,260.5396074307746L9.686406386701663,256.19203470031545L11.02580927384077,251.4706887486856L11.860509623797025,247.91000701016475L12.55932852143482,244.3493252716439L13.41344050743657,240.49355941114615L14.772255030621173,237.24763406940062L16.15048118985127,233.74596915527516L17.392825896762904,230.75578338590958L18.382819335083116,228.25740448650544L19.52810586176728,225.18852961794605L20.576334208223972,223.1032684893095L21.64397419072616,221.27374693305293L22.847495625546806,218.99176305643184L24.186898512685914,217.1819137749737L25.526301399825023,214.93927444794954L26.86570428696413,213.4441815632667L28.476870078740156,212.00810550297933L30.088035870516187,210.63104626708727L31.427438757655292,209.25398703119524L32.786253280839894,206.87364178058183L34.300360892388454,204.7490361023484L36.37740594925634,202.42770767613038L38.5515091863517,200.57851384507538L40.20149825021872,199.18178233438488L42.22030839895013,196.76209253417457L44.937937445319335,193.6145285664213L47.71380139982502,190.78172099544338L50.586723534558175,188.2833420960393L54.430227471566056,185.8833245706274L60.7584208223972,181.75214686295124L69.22189413823271,175.41767437784785L79.8788823272091,168.80779004556604L101.48403324584427,156.8470469681037L133.62970253718285,138.2370750087627L190.42814960629923,113.39099193831055L710,0"/>
+        <g class="knime-legend" transform="translate(0,544)">
+            <text x="20" class="knime-legend-label">
+                Random Forest Gain Ratio 12
+            </text>
+            <circle fill="#d62728" r="5" cx="5" class="knime-legend-symbol"
+                    cy="-5"/>
+        </g>
+        <path style="stroke: black; fill: none; stroke-width: 2;" class="line"
+              d="M0,449L710,0"/>
+        <g class="knime-legend" transform="translate(189,544)">
+            <text x="20" class="knime-legend-label">
+                random
+            </text>
+            <circle fill="black" r="5" cx="5" class="knime-legend-symbol"
+                    cy="-5"/>
+        </g>
+    </g>
+    <g transform="translate(70,0)">
+        <text class="knime-title" y="30" id="title">
+            ROC Curve
+        </text>
+    </g>
+</svg>

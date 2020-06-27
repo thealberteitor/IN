@@ -1,0 +1,38 @@
+
+Caso de estudio 5, tamaño: 3456
+*Algoritmo*: Agglo_5
+
+Tamaño de cada cluster:
+1:  2027 (58.65%)
+0:   651 (18.84%)
+3:   418 (12.09%)
+2:   232 ( 6.71%)
+4:   128 ( 3.70%)
+
+*Algoritmo*: Agglo_2
+
+Tamaño de cada cluster:
+0:  3096 (89.58%)
+1:   360 (10.42%)
+
+*Algoritmo*: KMeans_5
+
+Tamaño de cada cluster:
+3:  1608 (46.53%)
+0:   626 (18.11%)
+4:   453 (13.11%)
+2:   425 (12.30%)
+1:   344 ( 9.95%)
+
+*Algoritmo*: KMeans_2
+
+Tamaño de cada cluster:
+0:  3099 (89.67%)
+1:   357 (10.33%)
+
+Resultados:
+  Algoritmo  Número Clusters        SH           CH    Tiempo
+0   Agglo_5                5  0.546730  2513.810191  1.074528
+1   Agglo_2                2  0.569926  1993.364116  1.255889
+2  KMeans_5                5  0.465640  2507.383000  0.105569
+3  KMeans_2                2  0.569283  2009.500145  0.057573

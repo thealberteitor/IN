@@ -1,0 +1,72 @@
+
+Caso de estudio 3, tamaño: 2927
+*Algoritmo*: MeanShift
+
+Tamaño de cada cluster:
+0:  1518 (51.86%)
+1:  1409 (48.14%)
+         INGREHOG_INTER  TEMPRELA  EDINDECONO      EDAD  ESTUDIOSA
+cluster                                                           
+0              0.444570  0.996789    0.737818  0.411726   0.542902
+1              0.433134  0.217668    0.725033  0.579418   0.569642
+*Algoritmo*: KMeans
+
+Tamaño de cada cluster:
+1:   747 (25.52%)
+0:   600 (20.50%)
+3:   581 (19.85%)
+4:   513 (17.53%)
+2:   486 (16.60%)
+         INGREHOG_INTER  TEMPRELA  EDINDECONO      EDAD  ESTUDIOSA
+cluster                                                           
+0              0.274762  1.000000    0.741742  0.177833   0.483333
+1              0.502008  0.247305    0.732554  0.778715   0.663487
+2              0.798942  0.995448    0.748495  0.401235   0.578961
+3              0.370298  0.129245    0.729617  0.282616   0.474182
+4              0.276525  0.928273    0.704951  0.767641   0.554094
+*Algoritmo*: AgglomerativeClustering
+
+Tamaño de cada cluster:
+0:   965 (32.97%)
+3:   636 (21.73%)
+1:   528 (18.04%)
+2:   460 (15.72%)
+4:   338 (11.55%)
+         INGREHOG_INTER  TEMPRELA  EDINDECONO      EDAD  ESTUDIOSA
+cluster                                                           
+0              0.449593  0.276052    0.720929  0.752746   0.618135
+1              0.771916  1.000000    0.745189  0.334280   0.546638
+2              0.391615  0.112615    0.731901  0.225652   0.463315
+3              0.243486  1.000000    0.738510  0.263050   0.509237
+4              0.321640  0.998894    0.727977  0.791124   0.605399
+*Algoritmo*: MiniBatchKM
+
+Tamaño de cada cluster:
+2:   871 (29.76%)
+0:   659 (22.51%)
+3:   551 (18.82%)
+1:   502 (17.15%)
+4:   344 (11.75%)
+         INGREHOG_INTER  TEMPRELA  EDINDECONO      EDAD  ESTUDIOSA
+cluster                                                           
+0              0.421201  0.986642    0.729756  0.714719   0.622724
+1              0.188389  0.181166    0.711316  0.447211   0.468625
+2              0.458258  1.000000    0.743855  0.190241   0.482922
+3              0.510241  0.300599    0.729218  0.854446   0.670372
+4              0.676495  0.122228    0.738061  0.318023   0.555596
+*Algoritmo*: DBSCAN
+
+Tamaño de cada cluster:
+0:  2847 (97.27%)
+-1:    80 ( 2.73%)
+         INGREHOG_INTER  TEMPRELA  EDINDECONO      EDAD  ESTUDIOSA
+cluster                                                           
+-1             0.526786  0.489808    0.531221  0.730000   0.354687
+ 0             0.436600  0.625442    0.737296  0.485774   0.561424
+Resultados:
+                 Algoritmo  Número Clusters        SH           CH    Tiempo
+0                MeanShift                2  0.378570  1954.804484  1.702231
+1                   KMeans                5  0.285219  1342.770099  0.211653
+2  AgglomerativeClustering                5  0.251886  1207.103682  0.959178
+3              MiniBatchKM                5  0.259901  1200.800644  0.144073
+4                   DBSCAN                2  0.106797    34.005134  0.289262

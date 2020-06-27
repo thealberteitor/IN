@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+<entry key="node_file" type="xstring" value="settings.xml"/>
+<config key="flow_stack"/>
+<config key="internal_node_subsettings">
+<entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+</config>
+<config key="model">
+<config key="showClearSelectionButton_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showClearSelectionButton" type="xboolean" value="true"/>
+<config key="showLegend_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showLegend" type="xboolean" value="false"/>
+<config key="showFullscreen_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showFullscreen" type="xboolean" value="true"/>
+<config key="title_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="title" type="xstring" value="2D Density Plot"/>
+<config key="yAxisColumn_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="yAxisColumn" type="xstring" value="quantity"/>
+<config key="dataColor_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_color"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="dataColor">
+<entry key="Red" type="xint" value="0"/>
+<entry key="Green" type="xint" value="0"/>
+<entry key="Blue" type="xint" value="255"/>
+<entry key="Alpha" type="xint" value="255"/>
+</config>
+<config key="publishSelectionToggle_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="publishSelectionToggle" type="xboolean" value="true"/>
+<config key="xAxisLabel_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="xAxisLabel" type="xstring" value=""/>
+<config key="reportMissing_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="reportMissing" type="xboolean" value="true"/>
+<config key="showWarnings_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showWarnings" type="xboolean" value="true"/>
+<config key="subscribeFilterToggle_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="subscribeFilterToggle" type="xboolean" value="true"/>
+<config key="publishSelection_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="publishSelection" type="xboolean" value="true"/>
+<config key="backgroundColor_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_color"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="backgroundColor">
+<entry key="Red" type="xint" value="255"/>
+<entry key="Green" type="xint" value="255"/>
+<entry key="Blue" type="xint" value="255"/>
+<entry key="Alpha" type="xint" value="255"/>
+</config>
+<config key="enableEditing_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enableEditing" type="xboolean" value="false"/>
+<config key="svg_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_svg"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="svg">
+<entry key="width" type="xint" value="800"/>
+<entry key="height" type="xint" value="600"/>
+<entry key="fullscreen" type="xboolean" value="true"/>
+<entry key="showFullscreen" type="xboolean" value="true"/>
+</config>
+<config key="subscribeToFilters_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="subscribeToFilters" type="xboolean" value="true"/>
+<config key="enableSelection_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enableSelection" type="xboolean" value="true"/>
+<config key="overrideColors_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="overrideColors" type="xboolean" value="false"/>
+<config key="showSelectedOnlyToggle_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showSelectedOnlyToggle" type="xboolean" value="true"/>
+<config key="yAxisLabel_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="yAxisLabel" type="xstring" value=""/>
+<config key="tooltipToggle_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="tooltipToggle" type="xboolean" value="true"/>
+<config key="enablePlotlyEditor_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enablePlotlyEditor" type="xboolean" value="false"/>
+<config key="subscribeSelectionToggle_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="subscribeSelectionToggle" type="xboolean" value="true"/>
+<config key="xAxisColumn_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="xAxisColumn" type="xstring" value="class"/>
+<config key="colorscale_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="colorscale" type="xstring" value="Hot"/>
+<config key="enableFeatureSelection_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enableFeatureSelection" type="xboolean" value="true"/>
+<config key="enableViewControls_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="enableViewControls" type="xboolean" value="true"/>
+<config key="showDensityColorOptions_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showDensityColorOptions" type="xboolean" value="true"/>
+<config key="subscribeToSelection_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="subscribeToSelection" type="xboolean" value="true"/>
+<config key="showHistogram_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_boolean"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="showHistogram" type="xboolean" value="true"/>
+<config key="mValues_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<entry key="mValues" type="xstring" value="Leave missing values"/>
+<config key="daColor_Internals">
+<entry key="SettingsModelID" type="xstring" value="SMID_color"/>
+<entry key="EnabledStatus" type="xboolean" value="true"/>
+</config>
+<config key="daColor">
+<entry key="Red" type="xint" value="255"/>
+<entry key="Green" type="xint" value="255"/>
+<entry key="Blue" type="xint" value="255"/>
+<entry key="Alpha" type="xint" value="255"/>
+</config>
+<entry key="hideInWizard" type="xboolean" value="false"/>
+<entry key="maxRows" type="xint" value="2500"/>
+<entry key="generateImage" type="xboolean" value="true"/>
+<entry key="customCSS" type="xstring" value=""/>
+</config>
+<entry key="customDescription" type="xstring" isnull="true" value=""/>
+<entry key="state" type="xstring" value="CONFIGURED"/>
+<entry key="factory" type="xstring" value="org.knime.dynamic.js.v30.DynamicJSNodeFactory"/>
+<entry key="node-name" type="xstring" value="2D Density Plot (Plotly)"/>
+<entry key="node-bundle-name" type="xstring" value="Plotly.js integration into KNIME"/>
+<entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.js.plotly"/>
+<entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-bundle-version" type="xstring" value="4.0.2.v201909242005"/>
+<entry key="node-feature-name" type="xstring" value="KNIME Plotly"/>
+<entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.js.plotly.feature.group"/>
+<entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+<entry key="node-feature-version" type="xstring" value="4.0.2.v201909242005"/>
+<config key="factory_settings">
+<entry key="nodeDir" type="xstring" value="org.knime.js.plotly:nodes/:density2D"/>
+</config>
+<entry key="name" type="xstring" value="2D Density Plot (Plotly)"/>
+<entry key="hasContent" type="xboolean" value="false"/>
+<entry key="isInactive" type="xboolean" value="false"/>
+<config key="ports">
+<config key="port_1">
+<entry key="index" type="xint" value="1"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+<config key="port_2">
+<entry key="index" type="xint" value="2"/>
+<entry key="port_dir_location" type="xstring" isnull="true" value=""/>
+</config>
+</config>
+<config key="filestores">
+<entry key="file_store_location" type="xstring" isnull="true" value=""/>
+<entry key="file_store_id" type="xstring" isnull="true" value=""/>
+</config>
+</config>

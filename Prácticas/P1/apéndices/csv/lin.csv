@@ -1,0 +1,5 @@
+"row ID"	"TP"	"FP"	"TN"	"FN"	"TPR"	"TNR"	"PPV"	"Accuracy"	"F1-Score"	"G-mean"	"Area Under Curve"
+"C4.5 preprocessed"	17536	4939	31301	5059	0.776	0.864	0.78	0.83	0.778	0.819	0.841
+"C4.5 sin preprocesar"	17554	4950	31324	5070	0.776	0.864	0.78	0.83	0.778	0.819	0.842
+"KNN preprocessed"	16032	5959	30617	6792	0.702	0.837	0.729	0.785	0.715	0.767	0.845
+"KNN sin preprocesar"	16560	5374	31202	6264	0.726	0.853	0.755	0.804	0.74	0.787	0.86

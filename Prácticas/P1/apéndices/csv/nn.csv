@@ -1,0 +1,2 @@
+row ID	TP	FP	TN	FN	TPR	TNR	PPV	Accuracy	F1-Score	G-mean	Area Under Curve
+Neural Network	14591	5087	31489	8233	0.639	0.861	0.741	0.776	0.687	0.742	0.828

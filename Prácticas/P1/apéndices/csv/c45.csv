@@ -1,0 +1,2 @@
+row ID	TP	FP	TN	FN	TPR	TNR	PPV	Accuracy	F1-Score	G-mean	Area Under Curve
+C4.5	17554	4950	31324	5070	0.776	0.864	0.78	0.83	0.778	0.819	0.842

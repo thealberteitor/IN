@@ -1,0 +1,384 @@
+
+<svg contentScriptType="text/ecmascript" zoomAndPan="magnify"
+     xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css"
+     style="display: block;" padding="0px" version="1.0" width="836.53125"
+     margin="0px" data-iframe-height="" preserveAspectRatio="xMidYMid meet"
+     height="240" xmlns="http://www.w3.org/2000/svg">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-subtitle { color: black; fill: black; font-size: 12px; }</style><g id="plot">
+        <rect fill="#FFFFFF" width="836.53125" height="240" id="bgr"/>
+        <g id="titles">
+            <text x="20" y="30" id="title" class="knime-title"/>
+            <text x="20" y="46" id="subtitle" class="knime-subtitle"/>
+        </g>
+        <g id="decTree" transform="translate(10,10)rotate(0)skewX(0)scale(1,1)">
+            <rect width="816.53125" height="220" id="da"
+                  style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-width: 5px;"
+                  stroke-widt="5px" stroke="rgb(255, 204, 204)"/>
+            <g transform="translate(408.265625,0) scale(1,1)">
+                <path class="link"
+                      style="stroke-width: 2px; fill: none; stroke: rgb(204, 204, 204);"
+                      d="M0,0C0,67.5 -331.875,67.5 -331.875,135"/>
+                <path class="link"
+                      style="stroke-width: 2px; fill: none; stroke: rgb(204, 204, 204);"
+                      d="M0,0C0,67.5 -162.4296875,67.5 -162.4296875,135"/>
+                <path class="link"
+                      style="stroke-width: 2px; fill: none; stroke: rgb(204, 204, 204);"
+                      d="M0,0C0,67.5 5.0078125,67.5 5.0078125,135"/>
+                <path class="link"
+                      style="stroke-width: 2px; fill: none; stroke: rgb(204, 204, 204);"
+                      d="M0,0C0,67.5 169.109375,67.5 169.109375,135"/>
+                <path class="link"
+                      style="stroke-width: 2px; fill: none; stroke: rgb(204, 204, 204);"
+                      d="M0,0C0,67.5 333.546875,67.5 333.546875,135"/>
+                <g class="node" opacity="1"
+                   transform="translate(333.546875,135)scale(1,1)">
+                    <rect rx="3" width="149.4375" x="-74.71875" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-64.71875,10)">
+                            <text title="non functional (562/789)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                non functional (562/789)
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g style="cursor: pointer;" button="pointer"
+                       class="expandCollapseButton" transform="translate(0,80)">
+                        <circle r="5"
+                                style="stroke: black; stroke-width: 1px; fill: white;"/>
+                        <path class="plus" style="stroke: rgb(0, 0, 0);"
+                              d="M0 -4 L0 4 M-4 0 L4 0"/>
+                        <path class="minus" style="stroke: transparent;"
+                              d="M-4 0 L4 0"/>
+                    </g>
+                    <g class="split" style="fill-opacity: 1;"
+                       transform="translate(0,60)">
+                        <rect width="33.359375" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"
+                              transform="translate(-16.6796875,0)"/>
+                        <text title="region" style="text-anchor: middle;"
+                              y="8.399999999999999">
+                            region
+                        </text>
+                    </g>
+                    <g class="condition" transform="translate(0, -15)">
+                        <rect x="-27px" width="54px" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+                        <text title="= unknown" style="text-anchor: middle;"
+                              y="8.399999999999999">
+                            = unknown
+                        </text>
+                    </g>
+                </g>
+                <g class="node" opacity="1"
+                   transform="translate(169.109375,135)scale(1,1)">
+                    <rect rx="3" width="139.4375" x="-69.71875" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-59.71875,10)">
+                            <text title="functional (2325/4050)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                functional (2325/4050)
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g style="cursor: pointer;" button="pointer"
+                       class="expandCollapseButton" transform="translate(0,80)">
+                        <circle r="5"
+                                style="stroke: black; stroke-width: 1px; fill: white;"/>
+                        <path class="plus" style="stroke: rgb(0, 0, 0);"
+                              d="M0 -4 L0 4 M-4 0 L4 0"/>
+                        <path class="minus" style="stroke: transparent;"
+                              d="M-4 0 L4 0"/>
+                    </g>
+                    <g class="split" style="fill-opacity: 1;"
+                       transform="translate(0,60)">
+                        <rect width="85.046875" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"
+                              transform="translate(-42.5234375,0)"/>
+                        <text title="waterpoint_type"
+                              style="text-anchor: middle;" y="8.399999999999999">
+                            waterpoint_type
+                        </text>
+                    </g>
+                    <g class="condition" transform="translate(0, -15)">
+                        <rect x="-30px" width="60px" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+                        <text title="= seasonal" style="text-anchor: middle;"
+                              y="8.399999999999999">
+                            = seasonal
+                        </text>
+                    </g>
+                </g>
+                <g class="node" opacity="1"
+                   transform="translate(5.0078125,135)scale(1,1)">
+                    <rect rx="3" width="148.765625" x="-74.3828125" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-64.3828125,10)">
+                            <text title="non functional (6052/6246)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                non functional (6052/6...
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g/>
+                    <g/>
+                    <g class="condition" transform="translate(0, -15)">
+                        <rect x="-15px" width="30px" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+                        <text title="= dry" style="text-anchor: middle;"
+                              y="8.399999999999999">
+                            = dry
+                        </text>
+                    </g>
+                </g>
+                <g class="node" opacity="1"
+                   transform="translate(-162.4296875,135)scale(1,1)">
+                    <rect rx="3" width="146.109375" x="-73.0546875" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-63.0546875,10)">
+                            <text title="functional (7916/15129)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                functional (7916/15129)
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g style="cursor: pointer;" button="pointer"
+                       class="expandCollapseButton" transform="translate(0,80)">
+                        <circle r="5"
+                                style="stroke: black; stroke-width: 1px; fill: white;"/>
+                        <path class="plus" style="stroke: rgb(0, 0, 0);"
+                              d="M0 -4 L0 4 M-4 0 L4 0"/>
+                        <path class="minus" style="stroke: transparent;"
+                              d="M-4 0 L4 0"/>
+                    </g>
+                    <g class="split" style="fill-opacity: 1;"
+                       transform="translate(0,60)">
+                        <rect width="85.046875" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"
+                              transform="translate(-42.5234375,0)"/>
+                        <text title="waterpoint_type"
+                              style="text-anchor: middle;" y="8.399999999999999">
+                            waterpoint_type
+                        </text>
+                    </g>
+                    <g class="condition" transform="translate(0, -15)">
+                        <rect x="-30px" width="60px" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+                        <text title="= insufficient"
+                              style="text-anchor: middle;" y="8.399999999999999">
+                            = insufficient
+                        </text>
+                    </g>
+                </g>
+                <g class="node" opacity="1"
+                   transform="translate(-331.875,135)scale(1,1)">
+                    <rect rx="3" width="152.78125" x="-76.390625" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-66.390625,10)">
+                            <text title="functional (21648/33186)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                functional (21648/33186)
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g style="cursor: pointer;" button="pointer"
+                       class="expandCollapseButton" transform="translate(0,80)">
+                        <circle r="5"
+                                style="stroke: black; stroke-width: 1px; fill: white;"/>
+                        <path class="plus" style="stroke: rgb(0, 0, 0);"
+                              d="M0 -4 L0 4 M-4 0 L4 0"/>
+                        <path class="minus" style="stroke: transparent;"
+                              d="M-4 0 L4 0"/>
+                    </g>
+                    <g class="split" style="fill-opacity: 1;"
+                       transform="translate(0,60)">
+                        <rect width="85.046875" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"
+                              transform="translate(-42.5234375,0)"/>
+                        <text title="waterpoint_type"
+                              style="text-anchor: middle;" y="8.399999999999999">
+                            waterpoint_type
+                        </text>
+                    </g>
+                    <g class="condition" transform="translate(0, -15)">
+                        <rect x="-24px" width="48px" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"/>
+                        <text title="= enough" style="text-anchor: middle;"
+                              y="8.399999999999999">
+                            = enough
+                        </text>
+                    </g>
+                </g>
+                <g class="node" opacity="1" transform="scale(1,1)">
+                    <rect rx="3" width="152.78125" x="-76.390625" ry="3"
+                          height="50"
+                          style="fill: rgb(255, 255, 255); stroke: steelblue; stroke-width: 5px;"/>
+                    <g class="content">
+                        <g class="classCounts1"
+                           transform="translate(-66.390625,10)">
+                            <text title="functional (32259/59400)"
+                                  style="fill-opacity: 1;" y="8.399999999999999">
+                                functional (32259/59400)
+                            </text>
+                        </g>
+                        <g class="classCounts2"
+                           transform="translate(-26.015625,30)">
+                            <rect width="52.03125" height="0" y="5"
+                                  style="stroke-width: 0.3px; stroke: black; fill-opacity: 1e-06;"
+                                  class="collapsibleBorder"/>
+                            <g class="collapsibleHeader">
+                                <rect x="5" width="42.03125" height="10"
+                                      style="stroke: rgb(255, 255, 255); fill: rgb(255, 255, 255);"
+                                      class="in-node-text-background"/>
+                                <path style="cursor: pointer; fill-opacity: 1;"
+                                      d="M0,0 L9,5 L0,9 L0,0"
+                                      transform="translate(5, 0)"/>
+                                <text x="15" style="fill-opacity: 1;"
+                                      y="8.399999999999999">
+                                    Table:
+                                </text>
+                            </g>
+                            <g class="collapsibleBody"
+                               transform="translate(5,15)"/>
+                        </g>
+                    </g>
+                    <g style="cursor: pointer;" button="pointer"
+                       class="expandCollapseButton" transform="translate(0,80)">
+                        <circle r="5"
+                                style="stroke: black; stroke-width: 1px; fill: white;"/>
+                        <path class="plus" style="stroke: transparent;"
+                              d="M0 -4 L0 4 M-4 0 L4 0"/>
+                        <path class="minus" style="stroke: rgb(0, 0, 0);"
+                              d="M-4 0 L4 0"/>
+                    </g>
+                    <g class="split" style="fill-opacity: 1;"
+                       transform="translate(0,60)">
+                        <rect width="79.734375" height="10"
+                              style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255);"
+                              transform="translate(-39.8671875,0)"/>
+                        <text title="quantity_group"
+                              style="text-anchor: middle;" y="8.399999999999999">
+                            quantity_group
+                        </text>
+                    </g>
+                    <g/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2 @@
+row ID	TP	FP	TN	FN	TPR	TNR	PPV	Accuracy	F1-Score	G-mean	Area Under Curve
+Random Forest	12942	1747	34829	9882	0.567	0.952	0.881	0.804	0.69	0.735	0.843

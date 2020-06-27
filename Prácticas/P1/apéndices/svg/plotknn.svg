@@ -1,0 +1,707 @@
+
+<svg contentScriptType="text/ecmascript" width="800"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     style="width: 800px; height: 600px;" contentStyleType="text/css"
+     height="600" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.0">
+    <style type="text/css" xml:space="preserve">.knime-title { color: black; fill: black; font-size: 24px; }
+.knime-subtitle { color: black; fill: black; font-size: 12px; }
+.knime-label, .knime-axis-label, .knime-tick-label, .knime-label text, text.knime-axis-label, text.knime-tick-label { color: black; fill: black; font-size: 12px; }</style><rect fill="#FFFFFF"
+          width="800" id="bgr" height="600"/>
+    <g id="plotG" transform="translate(40,80)">
+        <rect fill="#FFFFFF" width="750" y="-10" id="da" height="535"/>
+        <line stroke-width="2" id="yMarker" visibility="hidden"
+              stroke="rgba(0,0,0,0.5)"/>
+        <path fill="none" class="row"
+              d="M41.666666666666664,472.7160493827064L208.33333333333331,11.191047162146333L375,25.232338003276254L541.6666666666666,481.57650861398685L708.3333333333333,183.75"
+              id="KNN___4" stroke="#7CEF70" stroke-opacity="0.9"
+              stroke-width="5"/>
+        <path fill="none" class="row"
+              d="M41.666666666666664,229.16947250278918L208.33333333333331,98.87420460098724L375,164.00320087625363L541.6666666666666,185.62341111280398L708.3333333333333,306.25"
+              id="KNN___6" stroke="#49EC39" stroke-opacity="0.9"
+              stroke-width="5"/>
+        <path fill="none" class="row"
+              d="M41.666666666666664,17.04826038158768L208.33333333333331,55.5530472908473L375,210.9476287304488L541.6666666666666,57.03096821139951L708.3333333333333,428.75"
+              id="KNN___8" stroke="#108804" stroke-opacity="0.9"
+              stroke-width="5"/>
+        <path fill="none" class="row"
+              d="M41.666666666666664,13.120089786748224L208.33333333333331,437.5275105325946L375,471.9540012630211L541.6666666666666,11.149939749653413L708.3333333333333,61.25"
+              id="KNN___10" stroke="#043600" stroke-opacity="0.9"
+              stroke-width="5"/>
+        <g class="axis knime-axis knime-y" id="Accuracy"
+           transform="translate(41.666666666666664,0)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,489.9999999999741)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.804
+                </text>
+                <title>
+                    0.804
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,443.33333333331234)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8042
+                </text>
+                <title>
+                    0.8042
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,396.6666666666506)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8044
+                </text>
+                <title>
+                    0.8044
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,349.99999999998886)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8046
+                </text>
+                <title>
+                    0.8046
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,303.3333333333272)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8048
+                </text>
+                <title>
+                    0.8048
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,256.6666666666395)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.805
+                </text>
+                <title>
+                    0.805
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,209.99999999997777)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8052
+                </text>
+                <title>
+                    0.8052
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,163.33333333331603)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8054
+                </text>
+                <title>
+                    0.8054
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,116.66666666665435)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8056
+                </text>
+                <title>
+                    0.8056
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,69.99999999999255)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.8058
+                </text>
+                <title>
+                    0.8058
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,23.33333333330495)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.806
+                </text>
+                <title>
+                    0.806
+                </title>
+            </g>
+            <path fill="none" d="M-6,0H0V490H-6" stroke-width="1"
+                  class="domain knime-axis-line" stroke="black"/>
+            <text style="cursor: move;" class="label knime-axis-label"
+                  transform="translate(0, -15)" text-anchor="middle">
+                Accuracy
+            </text>
+            <title>
+                Accuracy
+            </title>
+            <g class="brush" style="pointer-events: all;" id="knid_0">
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="visibility: hidden; cursor: crosshair;"
+                      shape-rendering="crispEdges" class="background"
+                      height="490" stroke="#fff"/>
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="cursor: move;" shape-rendering="crispEdges"
+                      class="extent" height="0" stroke="#fff"/>
+                <g class="resize n" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+                <g class="resize s" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+            </g>
+        </g>
+        <g class="axis knime-axis knime-y" id="F1-Score"
+           transform="translate(208.33333333333331,0)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,490)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7391
+                </text>
+                <title>
+                    0.7391
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,435.55555555555554)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7392
+                </text>
+                <title>
+                    0.7392
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,381.1111111111111)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7393
+                </text>
+                <title>
+                    0.7393
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,326.6666666666667)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7394
+                </text>
+                <title>
+                    0.7394
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,272.2222222221618)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7395
+                </text>
+                <title>
+                    0.7395
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,217.77777777771735)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7396
+                </text>
+                <title>
+                    0.7396
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,163.3333333332729)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7397
+                </text>
+                <title>
+                    0.7397
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,108.88888888882843)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7398
+                </text>
+                <title>
+                    0.7398
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,54.44444444438403)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7399
+                </text>
+                <title>
+                    0.7399
+                </title>
+            </g>
+            <path fill="none" d="M-6,0H0V490H-6" stroke-width="1"
+                  class="domain knime-axis-line" stroke="black"/>
+            <text style="cursor: move;" class="label knime-axis-label"
+                  transform="translate(0, -15)" text-anchor="middle">
+                F1-Score
+            </text>
+            <title>
+                F1-Score
+            </title>
+            <g class="brush" style="pointer-events: all;" id="knid_1">
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="visibility: hidden; cursor: crosshair;"
+                      shape-rendering="crispEdges" class="background"
+                      height="490" stroke="#fff"/>
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="cursor: move;" shape-rendering="crispEdges"
+                      class="extent" height="0" stroke="#fff"/>
+                <g class="resize n" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+                <g class="resize s" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+            </g>
+        </g>
+        <g class="axis knime-axis knime-y" id="G-mean"
+           transform="translate(375,0)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,490)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7855
+                </text>
+                <title>
+                    0.7855
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,452.3076923076955)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7856
+                </text>
+                <title>
+                    0.7856
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,414.61538461539106)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7857
+                </text>
+                <title>
+                    0.7857
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,376.92307692304473)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7858
+                </text>
+                <title>
+                    0.7858
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,339.2307692307403)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7859
+                </text>
+                <title>
+                    0.7859
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,301.5384615384358)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.786
+                </text>
+                <title>
+                    0.786
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,263.8461538461313)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7861
+                </text>
+                <title>
+                    0.7861
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,226.15384615382686)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7862
+                </text>
+                <title>
+                    0.7862
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,188.46153846152237)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7863
+                </text>
+                <title>
+                    0.7863
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,150.76923076921787)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7864
+                </text>
+                <title>
+                    0.7864
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,113.07692307691343)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7865
+                </text>
+                <title>
+                    0.7865
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,75.38461538460894)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7866
+                </text>
+                <title>
+                    0.7866
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,37.69230769230444)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7867
+                </text>
+                <title>
+                    0.7867
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,-4.189359970041551e-11)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.7868
+                </text>
+                <title>
+                    0.7868
+                </title>
+            </g>
+            <path fill="none" d="M-6,0H0V490H-6" stroke-width="1"
+                  class="domain knime-axis-line" stroke="black"/>
+            <text style="cursor: move;" class="label knime-axis-label"
+                  transform="translate(0, -15)" text-anchor="middle">
+                G-mean
+            </text>
+            <title>
+                G-mean
+            </title>
+            <g class="brush" style="pointer-events: all;" id="knid_2">
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="visibility: hidden; cursor: crosshair;"
+                      shape-rendering="crispEdges" class="background"
+                      height="490" stroke="#fff"/>
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="cursor: move;" shape-rendering="crispEdges"
+                      class="extent" height="0" stroke="#fff"/>
+                <g class="resize n" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+                <g class="resize s" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+            </g>
+        </g>
+        <g class="axis knime-axis knime-y" id="Area___Under___Curve"
+           transform="translate(541.6666666666666,0)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,490)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.86
+                </text>
+                <title>
+                    0.86
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,420)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.862
+                </text>
+                <title>
+                    0.862
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,350)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.864
+                </text>
+                <title>
+                    0.864
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,280)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.866
+                </text>
+                <title>
+                    0.866
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,210)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.868
+                </text>
+                <title>
+                    0.868
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,140.00000000000006)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.87
+                </text>
+                <title>
+                    0.87
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,70)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.872
+                </text>
+                <title>
+                    0.872
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,5.684341886080802e-14)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    0.874
+                </text>
+                <title>
+                    0.874
+                </title>
+            </g>
+            <path fill="none" d="M-6,0H0V490H-6" stroke-width="1"
+                  class="domain knime-axis-line" stroke="black"/>
+            <text style="cursor: move;" class="label knime-axis-label"
+                  transform="translate(0, -15)" text-anchor="middle">
+                Area Under Curve
+            </text>
+            <title>
+                Area Under Curve
+            </title>
+            <g class="brush" style="pointer-events: all;" id="knid_3">
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="visibility: hidden; cursor: crosshair;"
+                      shape-rendering="crispEdges" class="background"
+                      height="490" stroke="#fff"/>
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="cursor: move;" shape-rendering="crispEdges"
+                      class="extent" height="0" stroke="#fff"/>
+                <g class="resize n" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+                <g class="resize s" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+            </g>
+        </g>
+        <g class="axis knime-axis knime-y" id="Method"
+           transform="translate(708.3333333333333,0)">
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,428.75)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    KNN 8
+                </text>
+                <title>
+                    KNN 8
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,306.25)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    KNN 6
+                </text>
+                <title>
+                    KNN 6
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,183.75)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    KNN 4
+                </text>
+                <title>
+                    KNN 4
+                </title>
+            </g>
+            <g class="tick major knime-tick" style="opacity: 1;"
+               transform="translate(0,61.25)">
+                <line y2="0" class="knime-tick-line" x2="-6"/>
+                <text x="-9" dy=".32em" y="0" style="text-anchor: end;"
+                      class="knime-tick-label">
+                    KNN 10
+                </text>
+                <title>
+                    KNN 10
+                </title>
+            </g>
+            <path fill="none" d="M-6,0H0V490H-6" stroke-width="1"
+                  class="domain knime-axis-line" stroke="black"/>
+            <text style="cursor: move;" class="label knime-axis-label"
+                  transform="translate(0, -15)" text-anchor="middle">
+                Method
+            </text>
+            <title>
+                Method
+            </title>
+            <g class="brush" style="pointer-events: all;" id="knid_4">
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="visibility: hidden; cursor: crosshair;"
+                      shape-rendering="crispEdges" class="background"
+                      height="490" stroke="#fff"/>
+                <rect x="-8" y="0" fill-opacity="0.2" width="16"
+                      style="cursor: move;" shape-rendering="crispEdges"
+                      class="extent" height="0" stroke="#fff"/>
+                <g class="resize n" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+                <g class="resize s" style="cursor: ns-resize; display: none;"
+                   transform="translate(0,0)">
+                    <rect x="-8" y="-3" fill-opacity="0.2" width="16"
+                          style="visibility: hidden;"
+                          shape-rendering="crispEdges" height="6" stroke="#fff"/>
+                </g>
+            </g>
+        </g>
+    </g>
+    <text x="20" y="30" id="title" class="knime-title">
+        Parallel Coordinates Plot
+    </text>
+    <text x="20" y="46" id="subtitle" class="knime-subtitle"/>
+</svg>
